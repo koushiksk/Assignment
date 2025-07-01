@@ -1,6 +1,3 @@
-from enum import Enum, auto
-
-
 class Product:
     """Product class to represent a product with its name, price, category, and import status."""
 
